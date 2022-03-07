@@ -92,22 +92,25 @@ p {
     outline: 0;
 }
   
-<<<<<<< HEAD
   @media (max-width: 640px) {
     body{
-          width: 100%;
-    }
-    .rate{
-        font-size: 0.85em;
-    }
-=======
-  @media (max-width: 600px) {
-    body{
-          width: 100%;
+          width: 100vw;
       }
->>>>>>> ae0352126d85eef47d3f545738861b8708563c29
+      
+      .currency {
+    padding: 1.5em 0;
+      }
+      
+      .rate{
+          font-size: 0.8em;
+      }
+        
     .currency input {
       width: 11em;
-      font-size: 1.5em;
-    }
+      font-size: 1.3em;
+      }
+      
+    .currency select {
+    padding: 0.8em 1.4em 0.8em 0.6em;
+      }
 }
