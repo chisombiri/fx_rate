@@ -92,6 +92,7 @@ p {
     outline: 0;
 }
   
+<<<<<<< HEAD
   @media (max-width: 640px) {
     body{
           width: 100%;
@@ -99,6 +100,12 @@ p {
     .rate{
         font-size: 0.85em;
     }
+=======
+  @media (max-width: 600px) {
+    body{
+          width: 100%;
+      }
+>>>>>>> ae0352126d85eef47d3f545738861b8708563c29
     .currency input {
       width: 11em;
       font-size: 1.5em;
