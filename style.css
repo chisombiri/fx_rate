@@ -97,8 +97,8 @@ p {
           width: 100vw;
       }
       
-      .currency {
-    padding: 1.5em 0;
+      h1{
+          font-size: 1.8em;
       }
       
       .rate{
